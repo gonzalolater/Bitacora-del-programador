@@ -1,2 +1,2 @@
 # JsFundamentalsAU
-Alchimy university Javascript Fundamentals
+Alchemy University JavaScript Fundamentals
