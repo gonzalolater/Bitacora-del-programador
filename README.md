@@ -59,7 +59,7 @@ Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo
 -   https://university.alchemy.com/home
 ---------------------------------------------------------------   
 
-Fecha de Creacion: 02/12/2022
+Fecha de Creacion: 01/12/2022
 
 
 ---------------------------------------------------------------
