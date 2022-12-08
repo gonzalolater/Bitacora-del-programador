@@ -1,6 +1,6 @@
 # Bitacora del Programador #
 
-Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo relacionado con busquedas laborales.
+Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busquedas laborales de este mismo rubro.
 
 *. LinkedIn: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 
