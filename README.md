@@ -19,24 +19,35 @@ Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo
 -   Beca Alchemy university : JS Fundamentals + Ethereum Developer Bootcamp + Road To Web 3.
 ---------------------------------------------------------------   
 
+1. Mes de Mayo
+![image](https://user-images.githubusercontent.com/42863568/206427487-ea5a6837-57a1-41a9-8a3d-d954649dbee7.png)
 
 
-1. Mes de Agosto
+2. Mes de Junio
+![image](https://user-images.githubusercontent.com/42863568/206427319-c44a2d50-5292-45d9-b1f8-ed8ab5234d2b.png)
+
+
+3. Mes de Julio
+![image](https://user-images.githubusercontent.com/42863568/206426876-3d56baab-80ae-45a2-9523-1032723bbc58.png)
+
+
+4. Mes de Agosto
 ![image](https://user-images.githubusercontent.com/42863568/206422474-3023f11a-857f-4eab-8730-cd4c7ebf94bb.png)
 
 
-2. Mes de Septiembre
+5. Mes de Septiembre
 ![image](https://user-images.githubusercontent.com/42863568/206422158-3ef2935f-ad79-4697-a838-8b219d03d2bf.png)
 
 
-3. Mes de Octubre
+6. Mes de Octubre
 ![image](https://user-images.githubusercontent.com/42863568/206421774-b0a64370-4fb4-4674-b773-dc3647ec78f4.png)
 
 
-4. Mes de Noviembre
+7. Mes de Noviembre
 ![image](https://user-images.githubusercontent.com/42863568/206421597-6d68185c-f49e-46ec-9951-1d8b453eab8a.png)
 
-5. Mes en Curso.
+
+8. Mes en Curso.
 
 ---------------------------------------------------------------
 - Practicar javascript para entrevista es altamente util.
