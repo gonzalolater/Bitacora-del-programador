@@ -87,6 +87,6 @@ Arranco la mañana queriendo hacer la semana 6 de Road To Web 3 de Alchemy Unive
 
 1. https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
 
-2 .https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
+2. https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
 
 ---------------------------------------------------------------
