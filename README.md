@@ -10,13 +10,16 @@ Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo
 
 ![image](https://user-images.githubusercontent.com/42863568/206424941-379ff245-dc9f-46fb-8cad-18f35873bb2d.png)
 
+*. OpenSea: https://testnets.opensea.io/SrZygon
+
+*. Test Wallet : https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 
 ---------------------------------------------------------------
 - Practicar javascript para entrevista es altamente util.
 - Continuar iterando proyectos en diferentes Becas: 
--   Actualmente cursando 
--   Beca Platzi : Ethereum Developer Program(Finalizado) + Escuela de BlockChain y Criptomonedas(Finalizado) + Escuela de Habilidades Blandas.(rindiendo)   
--   Beca Alchemy university : JS Fundamentals + Ethereum Developer Bootcamp + Road To Web 3.
+-   Actualmente cursando :
+-     Beca Platzi : Ethereum Developer Program(Finalizado) + Escuela de BlockChain y Criptomonedas(Finalizado) + Escuela de Habilidades Blandas.(rindiendo)   
+-     Beca Alchemy university : JS Fundamentals + Ethereum Developer Bootcamp + Road To Web 3.
 ---------------------------------------------------------------   
 
 1. Mes de Mayo
@@ -59,8 +62,7 @@ Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo
 -   https://university.alchemy.com/home
 ---------------------------------------------------------------   
 
-Fecha de Creacion: 01/12/2022
-
+# Dia a dia:
 
 ---------------------------------------------------------------
 03/12/2022
