@@ -85,7 +85,8 @@ Examen desaprobado rendido vez numero 16 de Habilidades Blandas de Platzi.
 08/12/2022
 Arranco la mañana queriendo hacer la semana 6 de Road To Web 3 de Alchemy University
 
-https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
-https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
+1. https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
+
+2 .https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
 
 ---------------------------------------------------------------
