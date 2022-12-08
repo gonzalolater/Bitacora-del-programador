@@ -77,7 +77,7 @@ Estudiar para rendir el final de la Escuela de habilidades blandas, me quedan 15
 Examen desaprobado rendido vez numero 15 de Habilidades Blandas de Platzi.
 ---------------------------------------------------------------
 07/12/2022
-Entrevista Tecnica e Ingles con YAYASOFT emppresa de kajagistan, proyecto a febrero, marzo.
+Entrevista Tecnica e Ingles con YAYASOFT empresa de kajagistan, proyecto a febrero, marzo.
 Me fue bien.
 
 Examen desaprobado rendido vez numero 16 de Habilidades Blandas de Platzi.
