@@ -1,10 +1,14 @@
 # Bitacora del Programador #
 
 Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo relacionado con busquedas laborales.
-1. LinkedIn: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
-2. ![image](https://user-images.githubusercontent.com/42863568/206424568-9f8d205e-2c20-4a83-9482-995255061a73.png)
-3. Twitter: https://twitter.com/Coach_Bullets/communities
-4. ![image](https://user-images.githubusercontent.com/42863568/206424941-379ff245-dc9f-46fb-8cad-18f35873bb2d.png)
+
+*. LinkedIn: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
+
+![image](https://user-images.githubusercontent.com/42863568/206424568-9f8d205e-2c20-4a83-9482-995255061a73.png)
+
+*. Twitter: https://twitter.com/Coach_Bullets/communities
+
+![image](https://user-images.githubusercontent.com/42863568/206424941-379ff245-dc9f-46fb-8cad-18f35873bb2d.png)
 
 
 ---------------------------------------------------------------
