@@ -50,6 +50,7 @@ Fecha de Creacion: 02/12/2022
 ---------------------------------------------------------------
 03/12/2022
 Entrevista Tecnica Fracasada
+
 Pregunta en pantalla compartida como transformar numeros en romano a numeros comunes y completo la logica pero no el codigo.
 ---------------------------------------------------------------
 
