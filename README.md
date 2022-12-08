@@ -39,11 +39,14 @@ Esto es una bitacora de que cosas estudio sobre Desarrollo de Software y Todo lo
 - Continuar iterando proyectos en diferentes Becas: 
 -   Actualmente cursando 
 -   Beca Platzi : Ethereum Developer Program(Finalizado) + Escuela de BlockChain y Criptomonedas(Finalizado) + Escuela de Habilidades Blandas.(rindiendo)   
+-   https://platzi.com/ 
 -   Beca Alchemy university : JS Fundamentals + Ethereum Developer Bootcamp + Road To Web 3.
+-   https://university.alchemy.com/home
 ---------------------------------------------------------------   
-   
 
 Fecha de Creacion: 02/12/2022
+
+
 ---------------------------------------------------------------
 03/12/2022
 Entrevista Tecnica Fracasada
