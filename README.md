@@ -90,3 +90,7 @@ Arranco la mañana queriendo hacer la semana 6 de Road To Web 3 de Alchemy Unive
 2. https://docs.alchemy.com/docs/how-to-build-a-staking-dapp
 
 ---------------------------------------------------------------
+
+09/12/2022
+
+Hoy no estudie ni programe descanse y casi mori infartado con el partido del mundial de futbol.
