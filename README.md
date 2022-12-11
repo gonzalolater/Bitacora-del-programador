@@ -100,3 +100,13 @@ Hoy no estudie ni programe descanse y casi mori infartado con el partido del mun
 10/12/2022
 
 Trabajos adicionales en mi casa imposible programar mas el calor.
+
+----------------------------------------------------------------
+
+11/12/2022
+
+Empiezo proyecto nuevo.
+Fui rechazado de otrao puesto de trabajo PORQUE NO DABA EL FIT CULTURAL. (????)
+![image](https://user-images.githubusercontent.com/42863568/206887546-9ca3dc8f-0474-41b9-bbf9-48f0cca92f5c.png)
+
+---------------------------------------------------------------
