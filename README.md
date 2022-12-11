@@ -94,3 +94,9 @@ Arranco la mañana queriendo hacer la semana 6 de Road To Web 3 de Alchemy Unive
 09/12/2022
 
 Hoy no estudie ni programe descanse y casi mori infartado con el partido del mundial de futbol.
+
+---------------------------------------------------------------
+
+10/12/2022
+
+Trabajos adicionales en mi casa imposible programar mas el calor.
