@@ -6,9 +6,9 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 
 ![image](https://user-images.githubusercontent.com/42863568/206424568-9f8d205e-2c20-4a83-9482-995255061a73.png)
 
-*. Twitter: https://twitter.com/Coach_Bullets/communities
+*. Twitter: https://twitter.com/Coach_Bullets
 
-![image](https://user-images.githubusercontent.com/42863568/206424941-379ff245-dc9f-46fb-8cad-18f35873bb2d.png)
+![image](https://user-images.githubusercontent.com/42863568/207030010-d06a7c22-9d74-4ed2-9231-da559d529ee9.png)
 
 *. OpenSea: https://testnets.opensea.io/SrZygon
 
