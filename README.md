@@ -110,3 +110,7 @@ Fui rechazado de otrao puesto de trabajo PORQUE NO DABA EL FIT CULTURAL. (????)
 ![image](https://user-images.githubusercontent.com/42863568/206887546-9ca3dc8f-0474-41b9-bbf9-48f0cca92f5c.png)
 
 ---------------------------------------------------------------
+
+12/12/2022
+
+No tengo entrevistas hoy, asi que puedo estudiar cualquier cosa que quiera.
