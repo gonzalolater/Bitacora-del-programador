@@ -114,3 +114,5 @@ Fui rechazado de otrao puesto de trabajo PORQUE NO DABA EL FIT CULTURAL. (????)
 12/12/2022
 
 No tengo entrevistas hoy, asi que puedo estudiar cualquier cosa que quiera.
+Le arregle la pc a mi hermano en buenos aires, tenia instaldo un keylogger en la computadora de trabajo. borre muchas cosas raras, pero no se si le pegue al programa malicioso.
+Le recomende formatear y cerrar los puertos usb, para que no se repita.
