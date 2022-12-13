@@ -14,13 +14,6 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 
 *. Test Wallet : https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 
----------------------------------------------------------------
-- Practicar javascript para entrevista es altamente util.
-- Continuar iterando proyectos en diferentes Becas: 
--   Actualmente cursando :
--     Beca Platzi : Ethereum Developer Program(Finalizado) + Escuela de BlockChain y Criptomonedas(Finalizado) + Escuela de Habilidades Blandas.(rindiendo)   
--     Beca Alchemy university : JS Fundamentals + Ethereum Developer Bootcamp + Road To Web 3.
----------------------------------------------------------------   
 
 1. Mes de Mayo
 ![image](https://user-images.githubusercontent.com/42863568/206427487-ea5a6837-57a1-41a9-8a3d-d954649dbee7.png)
