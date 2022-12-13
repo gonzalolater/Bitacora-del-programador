@@ -122,4 +122,7 @@ Hoy tengo 2 entrevistas
 
 Llega un punto que de tantas entrevistas ya ni esperas pasar de etapa tenes cada cliente que pide cualquier cosa, ayer me hablaron a las 3 am de Pattaya, Provincia de Chon Buri, Tailandia. Quieren que les de 1 de mis proyectos, pero ya estoy cansado de los que se creen inteligentes.
 
+Primera entrevista me cancela sobre la hora y me responde esto: 
+![image](https://user-images.githubusercontent.com/42863568/207370339-95677724-f1f5-45fb-9aad-334bd5bf5c6a.png)
+
 --------------------------------------------------------------
