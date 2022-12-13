@@ -116,3 +116,16 @@ Fui rechazado de otrao puesto de trabajo PORQUE NO DABA EL FIT CULTURAL. (????)
 No tengo entrevistas hoy, asi que puedo estudiar cualquier cosa que quiera.
 Le arregle la pc a mi hermano en buenos aires, tenia instaldo un keylogger en la computadora de trabajo. borre muchas cosas raras, pero no se si le pegue al programa malicioso.
 Le recomende formatear y cerrar los puertos usb, para que no se repita.
+Hoy tenia una entrevista pero me la cancelaron.
+
+--------------------------------------------------------------
+
+13/12/2022
+
+Hoy tengo 2 entrevistas
+1- Fullstack JS para ReadyTal.
+2- Smart Contrat Developer para Bixlabs.
+
+Llega un punto que de tantas entrevistas ya ni esperas pasar de etapa tenes cada cliente que pide cualquier cosa, ayer me hablaron a las 3 am de Pattaya, Provincia de Chon Buri, Tailandia.
+
+--------------------------------------------------------------
