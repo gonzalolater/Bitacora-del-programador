@@ -127,6 +127,6 @@ Hoy tengo 2 entrevistas
 1. Fullstack JS para ReadyTal.
 2. Smart Contrat Developer para Bixlabs.
 
-Llega un punto que de tantas entrevistas ya ni esperas pasar de etapa tenes cada cliente que pide cualquier cosa, ayer me hablaron a las 3 am de Pattaya, Provincia de Chon Buri, Tailandia.
+Llega un punto que de tantas entrevistas ya ni esperas pasar de etapa tenes cada cliente que pide cualquier cosa, ayer me hablaron a las 3 am de Pattaya, Provincia de Chon Buri, Tailandia. Quieren que les de 1 de mis proyectos, pero ya estoy cansado de los que se creen inteligentes.
 
 --------------------------------------------------------------
