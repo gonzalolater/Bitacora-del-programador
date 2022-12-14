@@ -126,4 +126,16 @@ Primera entrevista me cancela sobre la hora y me responde esto:
 ![image](https://user-images.githubusercontent.com/42863568/207370339-95677724-f1f5-45fb-9aad-334bd5bf5c6a.png)
 
 Segunda entrevista, creo que me fue muy bien, me dijeron que tengo que esperar a la semana que viene.
+
+--------------------------------------------------------------
+
+14/12/2022
+
+Hoy tengo una entrevista con el que me cancelo ayer.
+
+1. Fullstack JS para ReadyTal.
+
+Ultimamente no estoy estudiando mucho porque a final de año y con este tremendo calor es dificil pensar y concentrarse en cualquier cosa.
+
+
 --------------------------------------------------------------
