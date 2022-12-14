@@ -23,6 +23,7 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 3. Integra Media.
 4. Accenture
 5. MercadoLibre
+6. Infuy
 
 ---------------------------------------------------------------------------------------------------------------
 
