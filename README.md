@@ -14,6 +14,17 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 
 *. Test Wallet : https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 
+---------------------------------------------------------------------------------------------------------------
+
+# BLACK LIST #
+
+1. ReadyTal
+2. JBKnowledge
+3. Integra Media.
+4. Accenture
+5. MercadoLibre
+
+---------------------------------------------------------------------------------------------------------------
 
 1. Mes de Mayo
 ![image](https://user-images.githubusercontent.com/42863568/206427487-ea5a6837-57a1-41a9-8a3d-d954649dbee7.png)
@@ -137,5 +148,6 @@ Hoy tengo una entrevista con el que me cancelo ayer.
 
 Ultimamente no estoy estudiando mucho porque a final de año y con este tremendo calor es dificil pensar y concentrarse en cualquier cosa.
 
+![image](https://user-images.githubusercontent.com/42863568/207703295-ec9d2ba3-5aa1-4b94-8afd-0f9d9a664471.png)
 
 --------------------------------------------------------------
