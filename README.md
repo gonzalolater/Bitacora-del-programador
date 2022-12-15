@@ -154,3 +154,9 @@ Ultimamente no estoy estudiando mucho porque a final de año y con este tremendo
 ![image](https://user-images.githubusercontent.com/42863568/207703295-ec9d2ba3-5aa1-4b94-8afd-0f9d9a664471.png)
 
 --------------------------------------------------------------
+
+15/12/2022
+
+Hoy no tengo entrevista voy a dedicarme a hacer testing de un software nuevo que se llama ChugSplash, se ve muy bueno para hacer contratos inteligentes y se esta desarrollando en este momento.
+
+--------------------------------------------------------------
