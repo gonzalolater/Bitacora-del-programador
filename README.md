@@ -69,25 +69,29 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 -   https://university.alchemy.com/home
 ---------------------------------------------------------------   
 
-# Dia a dia:
+# Dia a dia: #
 
 ---------------------------------------------------------------
+
 03/12/2022
 Entrevista Tecnica Fracasada
 
 Pregunta en pantalla compartida como transformar numeros en romano a numeros comunes y completo la logica pero no el codigo.
+
 ---------------------------------------------------------------
 
 05/12/2022
 Estudiar para rendir el final de la Escuela de habilidades blandas, me quedan 15 dias para que la beca termine
 
 Examen desaprobado rendido vez numero 15 de Habilidades Blandas de Platzi.
+
 ---------------------------------------------------------------
 07/12/2022
 Entrevista Tecnica e Ingles con YAYASOFT empresa de kajagistan, proyecto a febrero, marzo.
 Me fue bien.
 
 Examen desaprobado rendido vez numero 16 de Habilidades Blandas de Platzi.
+
 ---------------------------------------------------------------
 08/12/2022
 Arranco la mañana queriendo hacer la semana 6 de Road To Web 3 de Alchemy University
