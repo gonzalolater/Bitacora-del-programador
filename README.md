@@ -18,6 +18,8 @@ Esto es una bitacora sobre Desarrollo de Software y Todo lo relacionado con busq
 
 # BLACK LIST #
 
+![image](https://user-images.githubusercontent.com/42863568/207947212-c0c68985-1765-411e-97b6-95f9cf391447.png)
+
 1. ReadyTal
 2. JBKnowledge
 3. Integra Media.
