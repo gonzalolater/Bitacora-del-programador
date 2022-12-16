@@ -166,3 +166,13 @@ Ultimamente no estoy estudiando mucho porque a final de año y con este tremendo
 Hoy no tengo entrevista voy a dedicarme a hacer testing de un software nuevo que se llama ChugSplash, se ve muy bueno para hacer contratos inteligentes y se esta desarrollando en este momento.
 
 --------------------------------------------------------------
+
+16/12/2022
+
+Hoy full Fundamentals en Javascript, Estudiar javascript hasta el infinito.
+![image](https://user-images.githubusercontent.com/42863568/208151636-6d28637a-1818-4111-8f22-d73397fa3eb1.png)
+
+Lo estoy haciendo en: https://university.alchemy.com/
+Esta muy bueno.
+
+-------------------------------------------------------------
