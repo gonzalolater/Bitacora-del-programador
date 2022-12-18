@@ -176,3 +176,15 @@ Lo estoy haciendo en: https://university.alchemy.com/
 Esta muy bueno.
 
 -------------------------------------------------------------
+
+17/12/2022
+
+Hoy estuve en cama todo el dia (le pegue una tremenda patada al mueble y me saque la uña chiquita del pie ) , me limite a leer articulos de diferentes blockchains y protocolos, sigo investigando sobre seguridad de Smart Contract que es lo que me apasiona y donde veo el negocio a futuro.
+
+-------------------------------------------------------------
+
+18/12/2022
+
+Hoy me levante a las 5 para tomar unos mates porque hace tanto calor de dia que es imposible, de paso aprovecho para hacer algunos ejercicios de javascript mas de alchemy university y me comienzo a preparar para la final del mundial que se juega a las 12.
+
+-------------------------------------------------------------
