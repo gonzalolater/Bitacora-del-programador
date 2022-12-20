@@ -188,3 +188,21 @@ Hoy estuve en cama todo el dia (le pegue una tremenda patada al mueble y me saqu
 Hoy me levante a las 5 para tomar unos mates porque hace tanto calor de dia que es imposible, de paso aprovecho para hacer algunos ejercicios de javascript mas de alchemy university y me comienzo a preparar para la final del mundial que se juega a las 12.
 
 -------------------------------------------------------------
+
+19/12/2022
+
+0 % productividad, voy a descansar un poco, otro dia de estar sentado tantas horas, me comenzo a doler la cintura.
+
+-------------------------------------------------------------
+
+20/12/2022
+
+2 entrevistas
+
+1. Crypton.Estudio para hacer El proyecto AET 
+https://crypton.studio/en
+Me piden que transcriba el proyecta ingles, lo cambie y divida en menores partes, tambien haciendo la entrega de un mismo "white paper" me dijo, Bueno voy a intentar hacerlo, ya tengo la wallet, se como hacer BRIDGES, hice una blockchain chica en javascript tengo 3 computadoras puedo ponerlas a las 3 a validar transacciones para mostrar ?????
+
+2.  Entrevista para Sr. Blockchain, no tengo ninguna informacio ni que me va a decir, es una sorpresa total.
+
+------------------------------------------------------------
