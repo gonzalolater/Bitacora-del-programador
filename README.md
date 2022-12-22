@@ -206,3 +206,15 @@ Me piden que transcriba el proyecta ingles, lo cambie y divida en menores partes
 2.  Entrevista para Sr. Blockchain, no tengo ninguna informacio ni que me va a decir, es una sorpresa total.
 
 ------------------------------------------------------------
+
+21/12/2022
+
+Enfermo
+
+------------------------------------------------------------
+
+22/12/2022
+
+Entrevista con UpStar.
+
+-----------------------------------------------------------
